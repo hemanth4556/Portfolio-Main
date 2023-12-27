@@ -188,7 +188,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.google.com/uc?id=1tYZ6AQ0pcKk84h_qib9b6nsBYOacKYif    ",
+    img: "https://drive.google.com/uc?export=download&id=1tYZ6AQ0pcKk84h_qib9b6nsBYOacKYif    ",
     role: "Python Certification",
     company: "Udemy.",
     date: "May 2022 - June 2022",
