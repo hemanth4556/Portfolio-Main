@@ -144,7 +144,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://upcdn.io/W142hJk/raw/v1/4n3y9U5DD5dF5D1Z",
       },
       {
         name: "GitHub",
@@ -169,7 +169,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://upcdn.io/W142hJk/raw/v1/UXAd27tFwCAsCbeA",
       },
       // {
       //   name: "Adobe XD",
@@ -186,25 +186,25 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    id: 0,
-    img: "https://drive.google.com/uc?export=download&id=1tYZ6AQ0pcKk84h_qib9b6nsBYOacKYif    ",
-    role: "Python Certification",
-    company: "Udemy.",
-    date: "May 2022 - June 2022",
-    desc: "2022 Complete Python Bootcamp From Zero to Hero in Python.",
-    skills: [
-      "Python",
-      "Object Oriented Programming",
-    ],
-    doc: "https://drive.google.com/uc?id=1ov3FtpPWJDtx2qGvYnO8MGArnvKvZ6WM    ",
-  },
+  // {
+  //   id: 0,
+  //   img: "https://drive.google.com/uc?export=download&id=1tYZ6AQ0pcKk84h_qib9b6nsBYOacKYif    ",
+  //   role: "Python Certification",
+  //   company: "Udemy.",
+  //   date: "May 2022 - June 2022",
+  //   desc: "2022 Complete Python Bootcamp From Zero to Hero in Python.",
+  //   skills: [
+  //     "Python",
+  //     "Object Oriented Programming",
+  //   ],
+  //   doc: "https://drive.google.com/uc?id=1ov3FtpPWJDtx2qGvYnO8MGArnvKvZ6WM    ",
+  // },
   
   {
     id: 0,
-    img: "https://drive.google.com/uc?id=1vK_B4Rw8ITxIHaENyDAAGgtNf94EF8sD",
+    img: "https://upcdn.io/W142hJk/raw/v1/NY8cSLEGPXBag2cs",
     role: "Reasearch Intern",
-    company: "IIITDMK.",
+    company: "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram",
     date: "May 2023 - July 2023",
     desc: "Object Detection Using COCO dataset.",
     skills: [
@@ -215,28 +215,26 @@ export const experiences = [
       "Faster R-CNN",
       "Google Collab",
     ],
-    doc: "https://drive.google.com/uc?id=1R2T2eRiLMWZX4Vb6PMqER58wayJEcoGZ    ",
+    // doc: "https://drive.google.com/uc?id=1R2T2eRiLMWZX4Vb6PMqER58wayJEcoGZ    ",
+
   },
-  // {
-  //   id: 1,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "Fullstack Externship",
-  //   company: "Flipr",
-  //   date: "June 2023 - July 2023",
-  //   desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //     "Docker",
-  //     "AWS",
-  //     "MongoDB",
-  //   ],
-  // },
+  {
+    id: 1,
+    img: "https://upcdn.io/W142hJk/raw/v1/YGzSKwbXisyE9h46",
+    role: "Java FullStack Developer",
+    company: "Trisun Technologies and Services",
+    date: "July 2024",
+    desc: "Joined as a software trainee engineer specializing in Java Fullstack development.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap",
+      "Tailwind" ,
+      "Angular",
+      "Spring Boot",
+    ],
+  },
   // {
   //   id: 2,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
@@ -285,16 +283,16 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://drive.google.com/uc?id=1vK_B4Rw8ITxIHaENyDAAGgtNf94EF8sD",
+    img: "https://upcdn.io/W142hJk/raw/v1/NY8cSLEGPXBag2cs",
     school: "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram.",
     date: "Dec 2020 - May 2024",
-    grade: "7.34 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram. I have completed 7 semesters and have a CGPA of 7.34. I am learning and working on exciting projects with a team of talented developers.",
+    grade: "7.28 CGPA",
+    desc: "I have completed my Bachelor's degree in Electronics and Communication Engineering at the Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, with a CGPA of 7.28. I have learned and worked on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
   },
   {
     id: 1,
-    img: "https://drive.google.com/uc?id=1M6_HcEwhY7KIKVw7-mkbWD6cYWW5CBCm    ",
+    img: "https://upcdn.io/W142hJk/raw/v1/6BuX7QBx8vx7fgo1    ",
     school: "Tirumala Junior College, Andhra Pradesh",
     date: "Apr 2018 - Apr 2020",
     grade: "91.8%",
@@ -303,7 +301,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://drive.google.com/uc?id=1dL_ErC7z1rveBVhPbMb60_H9BaubEspr    ",
+    img: "https://upcdn.io/W142hJk/raw/v1/2GeZq48iU3TyErL2   ",
     school: "Keshava Reddy School, Andhra Pradesh",
     date: "Apr 2018",
     grade: "9.3 CGPA",
@@ -372,7 +370,7 @@ export const projects = [
     description:
       "Developed a news application leveraging React and Bootstrap technologies, proficiently extracting real-time news content from an API source. The project showcases a seamless integration of modern web development practices, combining the versatility of React with the responsive design capabilities of Bootstrap to deliver a professional and feature-rich news consumption experience.",
     image:
-      "https://drive.google.com/uc?id=17kXptLTSVnV90McyOQt2NxDCqD7fNG2x      ",
+      "https://upcdn.io/W142hJk/raw/v1/T6Tfvk9EwFEyYTdp      ",
     tags: [
       "React Js",
       "BootStrap",
@@ -416,7 +414,7 @@ export const projects = [
     description:
       "Designed and crafted a React-based professional portfolio that boasts a cutting-edge user interface adorned with polished design elements and captivating animations. The portfolio not only adheres to the latest web development standards but also delivers an aesthetically pleasing and compelling showcase of personal and professional accomplishments. It stands as a testament to a dedication to excellence and innovation within the digital realm, presenting a visually stunning and engaging representation of skills, projects, and expertise.",
     image:
-      "https://drive.google.com/uc?id=1nQxupD5TV2_VktZrPkURiwb2UDWb4Y-n      ",
+      "https://upcdn.io/W142hJk/raw/v1/2DEX1z8sTDtDYMcD      ",
     tags: ["React Js", ],
     category: "web app",
     github: "https://github.com/hemanth4556/Portfolio-Main",
@@ -429,7 +427,7 @@ export const projects = [
     description:
       "Developed a dynamic and interactive random quote generator application. The application includes a seamlessly integrated refresh button, allowing users to effortlessly access new quotes and authors with each interaction. This professional-grade project enhances user engagement and provides a fluid, user-friendly experience in exploring a variety of insightful and inspirational quotes.",
     image:
-      "https://drive.google.com/uc?id=1l-KaYWeQfesgeCeK2JwH9PO6aXOpR-DE      ",
+      "https://upcdn.io/W142hJk/raw/v1/9vM2viKtkqJWM5mp      ",
     tags: ["React Js", "JavaScript", "REST API"],
     category: "web app",
     github: "https://github.com/hemanth4556/Random-Quote-Generator",
@@ -442,7 +440,7 @@ export const projects = [
     description:
       "Designed and built a custom Chrome Extension using JavaScript to scrape email addresses efficiently from web pages. Prioritized user experience by incorporating a user-friendly design into the Extension.",
     image:
-      "https://drive.google.com/uc?id=1Bsd5HUa-xiwwlTnyvF0FR0iQfLR2QWIk      ",
+      "https://upcdn.io/W142hJk/raw/v1/8xB6nQMtbQ2bVE9q      ",
     tags: ["HTML", "CSS", "Java Script", "JSON"],
     category: "web app",
     github: "https://github.com/hemanth4556/Email_Scraper",
@@ -455,7 +453,7 @@ export const projects = [
     description:
       " A Todo Web App made with HTML/CSS and Java Script.The Todo List web application offers a user-friendly interface for task management, enabling users to seamlessly add new tasks, mark tasks as completed, and delete specific tasks. Notably, the application incorporates persistent data storage, ensuring that user input is retained even upon refreshing the page. This professional-grade solution enhances productivity and user experience by providing a reliable and intuitive task management system with data persistence capabilities.",
     image:
-      "https://drive.google.com/uc?id=1Dp-BJIN4T-jl4OYbhPu63uvOivMrNmvJ",
+      "https://upcdn.io/W142hJk/raw/v1/2TjGSG8ufqEr7613",
     tags: [" HTML ", "CSS", "Java Script"],
     category: "web app",
     github: "https://github.com/hemanth4556/Todo-List",
@@ -468,7 +466,7 @@ export const projects = [
     description:
       "Develop a sophisticated travel application using Next.js 14 and Tailwind CSS, showcasing a modern and feature-rich user interface. This project encompasses a wide array of contemporary design elements, ensuring a seamless user experience and adhering to mobile-first development best practices.",
     image:
-      "https://drive.google.com/uc?id=1TSQPW8f5zbiW3J9KLhD-c4rJv4ibdoQc      ",
+      "https://upcdn.io/W142hJk/raw/v1/GL6dfruXZbqt3rSR      ",
     tags: ["Next.js 14", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/hemanth4556/Travel-App",
@@ -481,7 +479,7 @@ export const projects = [
     description:
       "Built the Genius web application using Next.js, incorporating a sophisticated integration with Clerk for seamless and secure user sign-up and sign-in experiences. The application boasts dynamic categories, such as Conversation, Code, Music, Video, and Image, all powered by OpenAI to deliver intelligent responses. The UI design is enhanced with the implementation of the sleek Shadcn UI, providing a polished and visually appealing user interface. Genius offers users a comprehensive and intuitive platform that harmoniously blends advanced AI capabilities with modern design principles and secure authentication processes through Clerk.",
     image:
-      "https://drive.google.com/uc?id=1sMJpJF-QGw2nMcVJVoQ7tUg4vTlBOYpQ",
+      "https://upcdn.io/W142hJk/raw/v1/LtCa1aXdVEWCK3sH",
     tags: ["Next Js", "Shadcn", "Clerk", "OpenAi", "gpt-3.5 turbo"],
     category: "web app",
     github: "https://github.com/hemanth4556/Genius",
@@ -494,7 +492,7 @@ export const projects = [
     description:
       "Developed a professional portfolio utilizing React, featuring a contemporary user interface enriched with sleek design elements and sophisticated animations. The project showcases a commitment to modern web development standards, ensuring an aesthetically pleasing and engaging presentation of personal and professional achievements. This portfolio is a testament to a commitment to excellence and innovation in the digital space.",
     image:
-      "https://drive.google.com/uc?id=1PH5mWVv_tOFdD0tDoKyIXgih5X315gs6      ",
+      "https://upcdn.io/W142hJk/raw/v1/JUhrURiK99jYHVCa      ",
     tags: ["React Js", "CSS", "JS"],
     category: "web app",
     github: "https://github.com/hemanth4556/React-PORTFOLIO",
