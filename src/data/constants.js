@@ -336,35 +336,68 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Trackify",
   //   webapp: "https://trackify.duckdns.org",
   // },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
   {
-    id: 1,
+    id: 0,
+    title: "AI Summarizer",
+    date: "Dec 2023",
+    description:
+      "Developed an AI-based summarizer using OpenAI GPT-4 to generate concise summaries of articles from provided links. Implemented the project using React for front-end development, Redux for state management, Tailwind CSS for responsive UI design, and Vite for fast and optimized development build processes.",
+    image:
+      "https://upcdn.io/W142hJk/raw/v1/QwhidXBVoagfmoYU",
+    tags: ["React Js", "Vite", "Js", "Tailwind CSS", "Redux"],
+    category: "web app",
+    github: "https://github.com/hemanth4556/GPT-Summarizer",
+    webapp: "https://ai-summarizer-5rsa.vercel.app/",
+
+
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
+
+
+
+  {
+    id: 3,
+    title: "Portfolio",
+    date: "Mar 2023",
+    description:
+      "Designed and crafted a React-based professional portfolio that boasts a cutting-edge user interface adorned with polished design elements and captivating animations. The portfolio not only adheres to the latest web development standards but also delivers an aesthetically pleasing and compelling showcase of personal and professional accomplishments. It stands as a testament to a dedication to excellence and innovation within the digital realm, presenting a visually stunning and engaging representation of skills, projects, and expertise.",
+    image:
+      "https://upcdn.io/W142hJk/raw/v1/2DEX1z8sTDtDYMcD      ",
+    tags: ["React Js", ],
+    category: "web app",
+    github: "https://github.com/hemanth4556/Portfolio-Main",
+    webapp: "https://portfolio-main-gold.vercel.app/",
+  },
+
+  {
+    id: 5,
+    title: "Todo Web App",
+    date: "Jun 2022",
+    description:
+      " A Todo Web App made with HTML/CSS and Java Script.The Todo List web application offers a user-friendly interface for task management, enabling users to seamlessly add new tasks, mark tasks as completed, and delete specific tasks. Notably, the application incorporates persistent data storage, ensuring that user input is retained even upon refreshing the page. This professional-grade solution enhances productivity and user experience by providing a reliable and intuitive task management system with data persistence capabilities.",
+    image:
+      "https://upcdn.io/W142hJk/raw/v1/2TjGSG8ufqEr7613",
+    tags: [" HTML ", "CSS", "Java Script"],
+    category: "web app",
+    github: "https://github.com/hemanth4556/Todo-List",
+    webapp: "",
+  },
+
+  {
+    id: 4,
     title: "News App",
     date: "Oct 2023",
     description:
@@ -407,19 +440,7 @@ export const projects = [
   //     },
   //   ],
   // },
- {
-    id: 3,
-    title: "Portfolio",
-    date: "Mar 2023",
-    description:
-      "Designed and crafted a React-based professional portfolio that boasts a cutting-edge user interface adorned with polished design elements and captivating animations. The portfolio not only adheres to the latest web development standards but also delivers an aesthetically pleasing and compelling showcase of personal and professional accomplishments. It stands as a testament to a dedication to excellence and innovation within the digital realm, presenting a visually stunning and engaging representation of skills, projects, and expertise.",
-    image:
-      "https://upcdn.io/W142hJk/raw/v1/2DEX1z8sTDtDYMcD      ",
-    tags: ["React Js", ],
-    category: "web app",
-    github: "https://github.com/hemanth4556/Portfolio-Main",
-    webapp: "https://portfolio-main-gold.vercel.app/",
-  },
+ 
   {
     id: 10,
     title: "Random Quote Generator",
@@ -434,7 +455,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 4,
+    id: 7,
     title: "Email Scraper",
     date: "Jun 2023",
     description:
@@ -446,19 +467,7 @@ export const projects = [
     github: "https://github.com/hemanth4556/Email_Scraper",
     webapp: "",
   },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2022",
-    description:
-      " A Todo Web App made with HTML/CSS and Java Script.The Todo List web application offers a user-friendly interface for task management, enabling users to seamlessly add new tasks, mark tasks as completed, and delete specific tasks. Notably, the application incorporates persistent data storage, ensuring that user input is retained even upon refreshing the page. This professional-grade solution enhances productivity and user experience by providing a reliable and intuitive task management system with data persistence capabilities.",
-    image:
-      "https://upcdn.io/W142hJk/raw/v1/2TjGSG8ufqEr7613",
-    tags: [" HTML ", "CSS", "Java Script"],
-    category: "web app",
-    github: "https://github.com/hemanth4556/Todo-List",
-    webapp: "",
-  },
+  
   {
     id: 6,
     title: "Travel App",
@@ -473,7 +482,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 7,
+    id: 1,
     title: "Genius AI",
     date: "Dec 2023",
     description:
